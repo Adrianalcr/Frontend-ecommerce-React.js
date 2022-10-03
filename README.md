@@ -109,9 +109,8 @@ npm install styled-components</br>
 npm install react-router-dom --save</br>
 npm start // run the project</br>
 
-<a align="center">
-  <img src="screen2.png" width="350" title="Screenshot">
-</a>
+![Screenshot](tuto.svg)
+
 
 ### Screenshots
 
