@@ -110,7 +110,7 @@ npm install react-router-dom --save
 npm start // run the project
 
 <a align="center">
-  <img src="./imagens/screen2.png" width="350" title="Screenshot">
+  <img src="imagens/screen2.png" width="350" title="Screenshot">
 </a>
 
 ### Screenshots
@@ -118,7 +118,7 @@ npm start // run the project
 ![Screenshot](../imagens/screen2.png)!
 
 <a align="center">
-  <img src="./imagens/screen2.png" width="350" title="Screenshot">
+  <img src="imagens/screen2.png" width="350" title="Screenshot">
 </a>
 
 ### Images used project
