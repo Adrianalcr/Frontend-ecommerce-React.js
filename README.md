@@ -100,7 +100,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 
-### Commands
+## Commands
 
 npx or npm create-react-app ecommerce-app
 cd ecommerce-app
@@ -109,30 +109,21 @@ npm install styled-components
 npm install react-router-dom --save
 npm start // run the project
 
-<p align="center">
-  <img src="../imagens/tuto.svg" width="350" title="hover text">
-</p>
+<a align="center">
+  <img src="../imagens/screen2.png" width="350" title="Screenshot">
+</a>
 
 ### Screenshots
 
-![Screenshot](../imagens/screen2.png)
+![Screenshot](../imagens/screen2.png)!
 
-<p align="center">
-  <img src="../imagens/screen1.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+<a align="center">
+  <img src="/imagens/screen2.png" width="350" title="Screenshot">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="Screenshot">
+</a>
 
 ### Images used project
 
 By: <a href="https://br.freepik.com/">Freepik</a>
-
-
-
-### Advanced Configuration
-
-
-### Deployment
-
-
 
 ### `npm run build` fails to minify
