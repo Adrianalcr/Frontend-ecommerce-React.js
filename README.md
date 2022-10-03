@@ -89,25 +89,25 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Details Project
-1- React.js & Typescript
-2- Ecommerce template with all pages
-3- Carousel Image Slider
-4- Cross-Browser Compatible
-5- Contact Form UI
-6- Burger Menu
-7- Fully responsive will support all the devices
-8- react-router-dom implementation
+1- React.js & Typescript</br>
+2- Ecommerce template with all pages</br>
+3- Carousel Image Slider</br>
+4- Cross-Browser Compatible</br>
+5- Contact Form UI</br>
+6- Burger Menu</br>
+7- Fully responsive will support all the devices</br>
+8- react-router-dom implementation</br>
 
 
 
 ## Commands
 
-npx or npm create-react-app ecommerce-app
-cd ecommerce-app
-npm install react-icons
-npm install styled-components
-npm install react-router-dom --save
-npm start // run the project
+npx or npm create-react-app ecommerce-app</br>
+cd ecommerce-app</br>
+npm install react-icons</br>
+npm install styled-components</br>
+npm install react-router-dom --save</br>
+npm start // run the project</br>
 
 <a align="center">
   <img src="screen2.png" width="350" title="Screenshot">
