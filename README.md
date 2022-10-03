@@ -115,7 +115,7 @@ npm start // run the project
 
 ### Screenshots
 
-![Screenshot](screen2.png)!
+![Screenshot](screen2.png)
 
 <a align="center">
   <img src="screen2.png" width="350" title="Screenshot">
