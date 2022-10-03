@@ -99,6 +99,14 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 8- react-router-dom implementation</br>
 
 
+### Screenshots
+
+![Screenshot](screen2.png)
+
+<a align="center">
+  <img src="screen2.png" width="350" title="Screenshot">
+</a>
+
 
 ## Commands
 
@@ -111,14 +119,6 @@ npm start // run the project</br>
 
 ![Screenshot](tuto.svg)
 
-
-### Screenshots
-
-![Screenshot](screen2.png)
-
-<a align="center">
-  <img src="screen2.png" width="350" title="Screenshot">
-</a>
 
 ### Images used project
 
