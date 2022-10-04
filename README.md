@@ -1,6 +1,6 @@
 ## Hello, Welcome to my project in React.js.
 ### (Olá, Bem-vindo ao meu projeto em React.js).
-A Front End React.js project of an e-commerce was elaborated.
+A Front End React.js project of an e-commerce was elaborated.</br>
 Foi elaborado um projeto Front End React.js de um e-commerce.
 
 # Getting Started with Create React App
@@ -99,7 +99,7 @@ npm start // run the project</br>
 
 ### `npm run build` fails to minify
 
-##**Note: Este projeto é livre para você copiar e usar como desejar!**
+### **Note: Este projeto é livre para você copiar e usar como desejar!**
 
 ### Images project
 
