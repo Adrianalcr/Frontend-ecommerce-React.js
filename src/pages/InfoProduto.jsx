@@ -235,7 +235,7 @@ const Sku = styled.h4`
     color: #8bb582;
 `;
 
-const Produto = () => {
+const InfoProduto = () => {
     return (
         <Container>
             <Navbar />
@@ -324,4 +324,4 @@ const Produto = () => {
     )
 }
 
-export default Produto
+export default InfoProduto
